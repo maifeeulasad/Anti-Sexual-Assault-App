@@ -7,6 +7,6 @@ An application which helps to prevent sexual assault and alerting community and 
 
 # Here is snaps of old project
  - Service running and just tap to open :
-   [service](https://github.com/maifeeulasad/Anti-Sexual-Assault-App/blob/master/screenshots_old/service_tap_to_open.png)
+   ![service](https://github.com/maifeeulasad/Anti-Sexual-Assault-App/blob/master/screenshots_old/service_tap_to_open.png)
  - A simple activity to display number of active people in community and click to get list of recent vistim's location :
-   [activity](https://github.com/maifeeulasad/Anti-Sexual-Assault-App/blob/master/screenshots_old/activity_live_location_inside_distress.png)
+   ![activity](https://github.com/maifeeulasad/Anti-Sexual-Assault-App/blob/master/screenshots_old/activity_live_location_inside_distress.png)
